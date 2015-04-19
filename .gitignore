@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+*.Rproj
+activity.csv
+repdata-data-activity.zip
